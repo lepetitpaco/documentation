@@ -202,3 +202,6 @@ Mots clés :**
 
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
   - Regarder la doc sur la page du plugin
+
+- [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
+  - Convertir le fichier markdown en PDF, HTML ou image pour le partager hors du repo, pratique pour partager
