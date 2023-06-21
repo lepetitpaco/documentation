@@ -20,7 +20,6 @@
       - [Coloration syntaxique](#coloration-syntaxique)
   - [II. Plugins VSCODE](#ii-plugins-vscode)
 
-
 ## I. Comment faire du Markdown
 
 ### A. Titres
@@ -187,9 +186,6 @@ return a * b
 print(multiplication(2, 3))
 ```
 
-
-
-
 **Penser à utiliser les raccourcis avec vs code pour générer les différents éléments
 Mots clés :**
 
@@ -198,8 +194,8 @@ Mots clés :**
 
 ## II. Plugins VSCODE
 
-- [Markdown Preview Enhanced]([https://](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced))
+- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
   - Permet de visualiser son markdown en direct
   
-- [markdownlint]([https://](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint))
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
   - Formatte le markdown
