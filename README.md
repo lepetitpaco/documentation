@@ -1,8 +1,25 @@
-# notee-blockee
+# Sommaire
 
-Tu as trouvé la documentation
+- [Sommaire](#sommaire)
+  - [I. Comment faire du Markdown](#i-comment-faire-du-markdown)
+    - [A. Titres](#a-titres)
+    - [B. Listes](#b-listes)
+      - [Formatter le texte](#formatter-le-texte)
+      - [Listes à puces](#listes-à-puces)
+      - [Listes à numéros](#listes-à-numéros)
+      - [Liste à taches](#liste-à-taches)
+      - [Listes imbriquées](#listes-imbriquées)
+    - [C. Liens et images](#c-liens-et-images)
+      - [Image sans taille spécifiée](#image-sans-taille-spécifiée)
+      - [Image avec taille spécifiée](#image-avec-taille-spécifiée)
+      - [Lien sans texte](#lien-sans-texte)
+      - [Lien avec texte](#lien-avec-texte)
+    - [D. Blocs de code](#d-blocs-de-code)
+      - [Code en ligne](#code-en-ligne)
+      - [Code multiligne](#code-multiligne)
+      - [Coloration syntaxique](#coloration-syntaxique)
+  - [II. Plugins VSCODE](#ii-plugins-vscode)
 
----
 
 ## I. Comment faire du Markdown
 
