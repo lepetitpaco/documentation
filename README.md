@@ -199,3 +199,6 @@ Mots clés :**
   
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
   - Formatte le markdown
+
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+  - Regarder la doc sur la page du plugin
