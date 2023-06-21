@@ -46,8 +46,11 @@
 ```
 
 **Gras**
+
 *italique*
+
 ***italique gras***
+
 ~~Barré~~
 
 #### Listes à puces
@@ -140,7 +143,10 @@ Une nouvelle puce avec case à cocher est générée en allant à la ligne.
 
 #### Code en ligne
 
-`Voici un extrait de code en ligne :`print("Bonjour, monde!")`.`
+```markdown
+Voici un extrait de code en ligne :`print("Bonjour, monde!")`.
+```
+
 Voici un extrait de code en ligne : `print("Bonjour, monde!")`.
 
 #### Code multiligne
@@ -194,5 +200,6 @@ Mots clés :**
 
 - [Markdown Preview Enhanced]([https://](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced))
   - Permet de visualiser son markdown en direct
+  
 - [markdownlint]([https://](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint))
   - Formatte le markdown
